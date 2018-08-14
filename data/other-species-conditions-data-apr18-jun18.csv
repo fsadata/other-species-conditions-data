@@ -1,0 +1,34 @@
+Species,InspectionType,Condition,YearMonth,Country,NumberOfConditions,Throughput,NumberOfThroughputPlants,PercentageOfThroughput
+Deer,Conditions,Cirrhosis,2018-06,England,1,21,5,4.762
+Deer,Conditions,Contamination,2018-04,England,2,180,5,1.111
+Deer,Conditions,Fascioliasis (fluke),2018-04,England,3,180,5,1.667
+Deer,Conditions,Fascioliasis (fluke),2018-06,England,3,21,5,14.286
+Deer,Conditions,Fascioliasis (fluke),2018-05,Wales,2,12,1,16.667
+Large Wild Game,Conditions,Contamination,2018-04,England,5,377,9,1.326
+Large Wild Game,Conditions,Contamination,2018-05,England,2,99,8,2.02
+Large Wild Game,Conditions,Joint Lesions,2018-04,England,1,377,9,0.265
+Large Wild Game,Conditions,Trauma,2018-04,England,157,377,9,41.645
+Large Wild Game,Conditions,Trauma,2018-05,England,36,99,8,36.364
+Large Wild Game,Conditions,Trauma,2018-06,England,15,43,3,34.884
+Small wild game in feather,Conditions,Contamination,2018-06,England,20,3501,5,0.571
+Small wild game in fur,Conditions,Contamination,2018-06,England,15,1259,5,1.191
+Solipeds,Carcase,Contamination,2018-05,England,5,191,1,2.618
+Solipeds,Carcase,Contamination,2018-06,England,10,222,1,4.505
+Solipeds,Carcase,Joint Lesions,2018-06,England,1,222,1,0.45
+Solipeds,Carcase,Other,2018-04,England,3,111,1,2.703
+Solipeds,Carcase,Other,2018-05,England,1,191,1,0.524
+Solipeds,Carcase,Other,2018-06,England,1,222,1,0.45
+Solipeds,Offal,Contamination,2018-04,England,19,111,1,17.117
+Solipeds,Offal,Contamination,2018-05,England,27,191,1,14.136
+Solipeds,Offal,Contamination,2018-06,England,11,222,1,4.955
+Solipeds,Offal,Lung Abscesses,2018-05,England,1,191,1,0.524
+Solipeds,Offal,Lung Abscesses,2018-06,England,3,222,1,1.351
+Solipeds,Offal,Lung Worm,2018-04,England,1,111,1,0.901
+Solipeds,Offal,Other,2018-04,England,33,111,1,29.73
+Solipeds,Offal,Other,2018-05,England,36,191,1,18.848
+Solipeds,Offal,Other,2018-06,England,64,222,1,28.829
+Solipeds,Offal,Pneumonia Mycoplasma like,2018-04,England,2,111,1,1.802
+Solipeds,Offal,Pneumonia Mycoplasma like,2018-05,England,3,191,1,1.571
+Solipeds,Offal,Pneumonia Mycoplasma like,2018-06,England,1,222,1,0.45
+Solipeds,Offal,Pneumonia Pasteurella like,2018-06,England,1,222,1,0.45
+Solipeds,Total Rejection,Other,2018-06,England,3,222,1,1.351
