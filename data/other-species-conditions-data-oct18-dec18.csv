@@ -1,0 +1,73 @@
+Species,InspectionType,Condition,YearMonth,Country,NumberOfConditions,Throughput,NumberOfThroughputPlants,PercentageOfThroughput
+alpacas,Conditions,Fasciola Hepatica (Fluke),2018-10,England,2,8,2,25
+alpacas,Conditions,Fasciola Hepatica (Fluke),2018-12,England,3,8,3,37.5
+alpacas,Conditions,Other,2018-10,England,3,8,2,37.5
+Deer,Conditions,Cirrhosis,2018-10,England,1,1142,9,0.088
+Deer,Conditions,Cirrhosis,2018-11,England,1,1043,7,0.096
+Deer,Conditions,Cirrhosis,2018-12,England,4,641,8,0.624
+Deer,Conditions,Cirrhosis,2018-11,Wales,1,48,1,2.083
+Deer,Conditions,Contamination,2018-10,England,11,1142,9,0.963
+Deer,Conditions,Contamination,2018-11,England,19,1043,7,1.822
+Deer,Conditions,Contamination,2018-12,England,24,641,8,3.744
+Deer,Conditions,Fascioliasis (fluke),2018-10,England,19,1142,9,1.664
+Deer,Conditions,Fascioliasis (fluke),2018-11,England,20,1043,7,1.918
+Deer,Conditions,Fascioliasis (fluke),2018-12,England,12,641,8,1.872
+Deer,Conditions,Fascioliasis (fluke),2018-11,Wales,3,48,1,6.25
+Deer,Conditions,Joint Lesions,2018-10,England,1,1142,9,0.088
+Deer,Conditions,Trauma,2018-11,England,3,1043,7,0.288
+Farmed deer,Conditions,Fascioliasis (Fluke),2018-10,England,1,44,1,2.273
+Large Wild Game,Conditions,Contamination,2018-10,England,16,1462,13,1.094
+Large Wild Game,Conditions,Contamination,2018-11,England,30,84907,13,0.035
+Large Wild Game,Conditions,Contamination,2018-12,England,32,1964,13,1.629
+Large Wild Game,Conditions,Joint Lesions,2018-12,England,2,1964,13,0.102
+Large Wild Game,Conditions,Oedema / Emaciation,2018-11,England,1,84907,13,0.001
+Large Wild Game,Conditions,Oedema / Emaciation,2018-12,England,1,1964,13,0.051
+Large Wild Game,Conditions,Trauma,2018-10,England,303,1462,13,20.725
+Large Wild Game,Conditions,Trauma,2018-11,England,388,84907,13,0.457
+Large Wild Game,Conditions,Trauma,2018-12,England,285,1964,13,14.511
+Small wild game in feather,Conditions,"Abnormal Smell, Colour",2018-10,England,2445,109187,13,2.239
+Small wild game in feather,Conditions,"Abnormal Smell, Colour",2018-11,England,4342,156759,13,2.77
+Small wild game in feather,Conditions,"Abnormal Smell, Colour",2018-12,England,1140,139303,13,0.818
+Small wild game in feather,Conditions,Ascites/Oedema,2018-11,England,20,156759,13,0.013
+Small wild game in feather,Conditions,Ascites/Oedema,2018-12,England,111,139303,13,0.08
+Small wild game in feather,Conditions,Contamination,2018-10,England,1163,109187,13,1.065
+Small wild game in feather,Conditions,Contamination,2018-11,England,1697,156759,13,1.083
+Small wild game in feather,Conditions,Contamination,2018-12,England,4309,139303,13,3.093
+Small wild game in feather,Conditions,Emaciation/Cachexia,2018-10,England,1,109187,13,0.001
+Small wild game in feather,Conditions,Emaciation/Cachexia,2018-11,England,123,156759,13,0.078
+Small wild game in feather,Conditions,Emaciation/Cachexia,2018-12,England,152,139303,13,0.109
+Small wild game in feather,Conditions,Pericarditis,2018-12,England,1,139303,13,0.001
+Small wild game in feather,Conditions,Peritonitis/Perihepatitis,2018-11,England,48,156759,13,0.031
+Small wild game in feather,Conditions,Trauma,2018-10,England,2881,109187,13,2.639
+Small wild game in feather,Conditions,Trauma,2018-11,England,4362,156759,13,2.783
+Small wild game in feather,Conditions,Trauma,2018-12,England,5437,139303,13,3.903
+Small wild game in fur,Conditions,"Abnormal Smell, Colour",2018-10,England,2,2944,8,0.068
+Small wild game in fur,Conditions,"Abnormal Smell, Colour",2018-11,England,2,2836,6,0.071
+Small wild game in fur,Conditions,Contamination,2018-10,England,7,2944,8,0.238
+Small wild game in fur,Conditions,Contamination,2018-11,England,4,2836,6,0.141
+Small wild game in fur,Conditions,Contamination,2018-12,England,8,335,5,2.388
+Small wild game in fur,Conditions,Trauma,2018-10,England,1,2944,8,0.034
+Small wild game in fur,Conditions,Trauma,2018-11,England,1,2836,6,0.035
+Small wild game in fur,Conditions,Trauma,2018-12,England,1,335,5,0.299
+Solipeds,Carcase,Contamination,2018-10,England,11,358,2,3.073
+Solipeds,Carcase,Contamination,2018-11,England,7,309,1,2.265
+Solipeds,Carcase,Contamination,2018-12,England,1,273,1,0.366
+Solipeds,Carcase,Other,2018-10,England,4,358,2,1.117
+Solipeds,Carcase,Other,2018-11,England,1,309,1,0.324
+Solipeds,Offal,Contamination,2018-10,England,32,358,2,8.939
+Solipeds,Offal,Contamination,2018-11,England,15,309,1,4.854
+Solipeds,Offal,Contamination,2018-12,England,11,273,1,4.029
+Solipeds,Offal,Lung Abscesses,2018-10,England,2,358,2,0.559
+Solipeds,Offal,Lung Abscesses,2018-11,England,4,309,1,1.294
+Solipeds,Offal,Lung Abscesses,2018-12,England,7,273,1,2.564
+Solipeds,Offal,Lung Worm,2018-10,England,6,358,2,1.676
+Solipeds,Offal,Lung Worm,2018-11,England,2,309,1,0.647
+Solipeds,Offal,Lung Worm,2018-12,England,2,273,1,0.733
+Solipeds,Offal,Other,2018-10,England,97,358,2,27.095
+Solipeds,Offal,Other,2018-11,England,95,309,1,30.744
+Solipeds,Offal,Other,2018-12,England,59,273,1,21.612
+Solipeds,Offal,Pneumonia Mycoplasma like,2018-10,England,6,358,2,1.676
+Solipeds,Offal,Pneumonia Mycoplasma like,2018-11,England,4,309,1,1.294
+Solipeds,Offal,Pneumonia Mycoplasma like,2018-12,England,4,273,1,1.465
+Solipeds,Offal,Pneumonia Pasteurella like,2018-11,England,2,309,1,0.647
+Solipeds,Total Rejection,Other,2018-10,England,1,358,2,0.279
