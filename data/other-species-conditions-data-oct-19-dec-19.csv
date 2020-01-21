@@ -1,0 +1,120 @@
+﻿Species,InspectionType,Condition,YearMonth,Country,NumberOfConditions,Throughput,NumberOfThroughputPlants,PercentageOfThroughput
+Cattle,AnteMortem,Emergency Slaughter on Farm ,2019-12,England,1,118405,131,0.001
+Cattle,AnteMortem,Lameness – Joint/Leg Lesion(s),2019-10,England,1,146691,131,0.001
+Cattle,AnteMortem,Lameness – Not Defined,2019-12,England,2,118405,131,0.002
+Cattle,AnteMortem,Slaughtered in Lairage,2019-11,England,1,140725,131,0.001
+Cattle,AnteMortem,Suspect Emaciation/Poor Condition,2019-10,England,1,146691,131,0.001
+Cattle,AnteMortem,Trauma – Soft Tissue,2019-12,England,1,118405,131,0.001
+Cattle,Carcases,Abscesses – Hindquarters,2019-12,England,1,118405,131,0.001
+Cattle,Carcases,Bruising,2019-12,England,3,118405,131,0.003
+Cattle,Carcases,Contamination,2019-11,England,1,140725,131,0.001
+Cattle,Carcases,Contamination,2019-12,England,2,118405,131,0.002
+Cattle,Carcases,Other,2019-11,England,2,140725,131,0.001
+Cattle,Carcases,Other,2019-12,England,3,118405,131,0.003
+Cattle,Offal,Contamination,2019-11,England,1,140725,131,0.001
+Cattle,Offal,Fluke Immature,2019-10,England,4,146691,131,0.003
+Cattle,Offal,Fluke Immature,2019-11,England,1,140725,131,0.001
+Cattle,Offal,Fluke Immature,2019-12,England,7,118405,131,0.006
+Cattle,Offal,Fluke Mature,2019-10,England,3,146691,131,0.002
+Cattle,Offal,Fluke Mature,2019-11,England,6,140725,131,0.004
+Cattle,Offal,Fluke Mature,2019-12,England,16,118405,131,0.014
+Cattle,Offal,Fluke Mature,2019-11,Wales,1,12955,14,0.008
+Cattle,Offal,Hepatic Scarring,2019-10,England,3,146691,131,0.002
+Cattle,Offal,Hepatic Scarring,2019-11,England,1,140725,131,0.001
+Cattle,Offal,Hepatic Scarring,2019-12,England,2,118405,131,0.002
+Cattle,Offal,Liver Abscesses,2019-10,England,2,146691,131,0.001
+Cattle,Offal,Liver Abscesses,2019-11,England,7,140725,131,0.005
+Cattle,Offal,Liver Abscesses,2019-12,England,5,118405,131,0.004
+Cattle,Offal,Other,2019-10,England,1,146691,131,0.001
+Cattle,Offal,Other,2019-11,England,12,140725,131,0.009
+Cattle,Offal,Other,2019-12,England,4,118405,131,0.003
+Cattle,Offal,Pleurisy,2019-10,England,2,146691,131,0.001
+Cattle,Offal,Pleurisy,2019-11,England,1,140725,131,0.001
+Cattle,Offal,Pleurisy,2019-12,England,5,118405,131,0.004
+Cattle,Offal,Pneumonia,2019-10,England,4,146691,131,0.003
+Cattle,Offal,Pneumonia,2019-11,England,4,140725,131,0.003
+Cattle,Offal,Pneumonia,2019-12,England,7,118405,131,0.006
+Cattle,Offal,Traumatic Pericarditis,2019-11,England,1,140725,131,0.001
+Cattle,Offal,Traumatic Pericarditis,2019-12,England,3,118405,131,0.003
+Deer,Conditions,Cirrhosis,2019-10,England,1,946,9,0.106
+Deer,Conditions,Cirrhosis,2019-11,England,2,1060,9,0.189
+Deer,Conditions,Cirrhosis,2019-12,England,1,941,9,0.106
+Deer,Conditions,Contamination,2019-10,England,30,946,9,3.171
+Deer,Conditions,Contamination,2019-11,England,3,1060,9,0.283
+Deer,Conditions,Contamination,2019-12,England,11,941,9,1.169
+Deer,Conditions,Contamination,2019-12,Wales,1,18,1,5.556
+Deer,Conditions,Fascioliasis (fluke),2019-10,England,40,946,9,4.228
+Deer,Conditions,Fascioliasis (fluke),2019-11,England,8,1060,9,0.755
+Deer,Conditions,Fascioliasis (fluke),2019-12,England,3,941,9,0.319
+Deer,Conditions,Joint Lesions,2019-10,England,2,946,9,0.211
+Deer,Conditions,Trauma,2019-10,England,5,946,9,0.529
+Deer,Conditions,Trauma,2019-11,England,14,1060,9,1.321
+Deer,Conditions,Trauma,2019-12,England,1,941,9,0.106
+Large Wild Game,Conditions,Contamination,2019-10,England,2,1446,15,0.138
+Large Wild Game,Conditions,Contamination,2019-10,England,55,1446,15,3.804
+Large Wild Game,Conditions,Contamination,2019-11,England,40,2787,14,1.435
+Large Wild Game,Conditions,Contamination,2019-11,England,120,2787,14,4.306
+Large Wild Game,Conditions,Contamination,2019-12,England,89,1903,14,4.677
+Large Wild Game,Conditions,Contamination,2019-12,England,2,1903,14,0.105
+Large Wild Game,Conditions,Joint Lesions,2019-10,England,1,1446,15,0.069
+Large Wild Game,Conditions,Joint Lesions,2019-11,England,3,2787,14,0.108
+Large Wild Game,Conditions,Joint Lesions,2019-12,England,1,1903,14,0.053
+Large Wild Game,Conditions,Oedema / Emaciation,2019-10,England,1,1446,15,0.069
+Large Wild Game,Conditions,Oedema / Emaciation,2019-10,England,1,1446,15,0.069
+Large Wild Game,Conditions,Oedema / Emaciation,2019-11,England,1,2787,14,0.036
+Large Wild Game,Conditions,Oedema / Emaciation,2019-12,England,2,1903,14,0.105
+Large Wild Game,Conditions,Trauma,2019-10,England,270,1446,15,18.672
+Large Wild Game,Conditions,Trauma,2019-11,England,6,2787,14,0.215
+Large Wild Game,Conditions,Trauma,2019-11,England,489,2787,14,17.546
+Large Wild Game,Conditions,Trauma,2019-12,England,357,1903,14,18.76
+Large Wild Game,Conditions,Trauma,2019-12,England,2,1903,14,0.105
+Small wild game in feather,Conditions,"Abnormal Smell, Colour",2019-10,England,3476,173403,13,2.005
+Small wild game in feather,Conditions,"Abnormal Smell, Colour",2019-11,England,5,238697,14,0.002
+Small wild game in feather,Conditions,"Abnormal Smell, Colour",2019-11,England,5282,238697,14,2.213
+Small wild game in feather,Conditions,"Abnormal Smell, Colour",2019-12,England,3302,188174,13,1.755
+Small wild game in feather,Conditions,"Abnormal Smell, Colour",2019-12,England,998,188174,13,0.53
+Small wild game in feather,Conditions,Ascites/Oedema,2019-10,England,279,173403,13,0.161
+Small wild game in feather,Conditions,Ascites/Oedema,2019-11,England,371,238697,14,0.155
+Small wild game in feather,Conditions,Ascites/Oedema,2019-12,England,38,188174,13,0.02
+Small wild game in feather,Conditions,Ascites/Oedema,2019-12,England,231,188174,13,0.123
+Small wild game in feather,Conditions,Contamination,2019-10,England,23,173403,13,0.013
+Small wild game in feather,Conditions,Contamination,2019-10,England,1878,173403,13,1.083
+Small wild game in feather,Conditions,Contamination,2019-11,England,1509,238697,14,0.632
+Small wild game in feather,Conditions,Contamination,2019-11,England,33,238697,14,0.014
+Small wild game in feather,Conditions,Contamination,2019-12,England,1414,188174,13,0.751
+Small wild game in feather,Conditions,Contamination,2019-12,England,32,188174,13,0.017
+Small wild game in feather,Conditions,Emaciation/Cachexia,2019-10,England,170,173403,13,0.098
+Small wild game in feather,Conditions,Emaciation/Cachexia,2019-11,England,251,238697,14,0.105
+Small wild game in feather,Conditions,Emaciation/Cachexia,2019-12,England,25,188174,13,0.013
+Small wild game in feather,Conditions,Emaciation/Cachexia,2019-12,England,140,188174,13,0.074
+Small wild game in feather,Conditions,Missing Viscera,2019-11,England,2,238697,14,0.001
+Small wild game in feather,Conditions,Trauma,2019-10,England,20,173403,13,0.012
+Small wild game in feather,Conditions,Trauma,2019-10,England,3868,173403,13,2.231
+Small wild game in feather,Conditions,Trauma,2019-11,England,16,238697,14,0.007
+Small wild game in feather,Conditions,Trauma,2019-11,England,5954,238697,14,2.494
+Small wild game in feather,Conditions,Trauma,2019-12,England,461,188174,13,0.245
+Small wild game in feather,Conditions,Trauma,2019-12,England,3940,188174,13,2.094
+Small wild game in fur,Conditions,"Abnormal Smell, Colour",2019-10,England,15,2089,11,0.718
+Small wild game in fur,Conditions,Contamination,2019-10,England,1,2089,11,0.048
+Small wild game in fur,Conditions,Contamination,2019-10,England,2,2089,11,0.096
+Small wild game in fur,Conditions,Trauma,2019-10,England,5,2089,11,0.239
+Small wild game in fur,Conditions,Trauma,2019-10,England,2,2089,11,0.096
+Small wild game in fur,Conditions,Trauma,2019-12,England,2,1195,5,0.167
+Solipeds,AnteMortem,Lameness - Joint Lesion(s),2019-10,England,1,289,1,0.346
+Solipeds,AnteMortem,Other,2019-10,England,7,289,1,2.422
+Solipeds,AnteMortem,Other,2019-11,England,3,98,1,3.061
+Solipeds,Carcase,Bruising – Traumatic,2019-11,England,1,98,1,1.02
+Solipeds,Carcase,Contamination,2019-10,England,30,289,1,10.381
+Solipeds,Carcase,Contamination,2019-11,England,21,98,1,21.429
+Solipeds,Carcase,Other,2019-10,England,3,289,1,1.038
+Solipeds,Offal,Contamination,2019-10,England,20,289,1,6.92
+Solipeds,Offal,Contamination,2019-11,England,6,98,1,6.122
+Solipeds,Offal,Contamination,2019-12,England,4,51,2,7.843
+Solipeds,Offal,Lung Abscesses,2019-11,England,1,98,1,1.02
+Solipeds,Offal,Lung Worm,2019-10,England,8,289,1,2.768
+Solipeds,Offal,Other,2019-10,England,117,289,1,40.484
+Solipeds,Offal,Other,2019-11,England,47,98,1,47.959
+Solipeds,Offal,Other,2019-12,England,21,51,2,41.176
+Solipeds,Offal,Pneumonia Mycoplasma like,2019-11,England,1,98,1,1.02
+Solipeds,Offal,Pneumonia Pasteurella like,2019-10,England,7,289,1,2.422
+Solipeds,Total Rejection,Other,2019-10,England,1,289,1,0.346
